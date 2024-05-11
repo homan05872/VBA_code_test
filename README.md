@@ -1,0 +1,2 @@
+# VBA_code_test
+VBAコードでgithub差分とれるかテスト
